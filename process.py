@@ -63,10 +63,9 @@ def truncate_long_cats(cats):
         res = "-".join(c)
     return res[:15]
 
-
 # list the integredients available
 
-ingredients = ['alcohol_100g', 'sugars_100g', 'salt_100g']
+ingredients = ['alcohol_100g', 'sugars_100g', 'salt_100g', 'cholesterol_100g', 'fruits-vegetables-nuts_100g']
 final = {}
 for ing in ingredients:
     blue = get_ingredient_data(combined, ing)
@@ -78,5 +77,5 @@ for ing in ingredients:
 # save json
 
 
-with open('final1.json','w') as f:
+with open('final2.json','w') as f:
     json.dump(final, f)
