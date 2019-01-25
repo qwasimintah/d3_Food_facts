@@ -1,0 +1,4 @@
+[V] JSON on additives information
+[-] find how to visualize harmfulness
+[-] a better versus visu ?
+[-] draft the page

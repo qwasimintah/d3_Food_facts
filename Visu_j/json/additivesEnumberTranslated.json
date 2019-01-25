@@ -1,0 +1,3002 @@
+[
+    {
+        "name": "E100",
+        "fullName": "Curcumin, Curcumin Yellow",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E101",
+        "fullName": "Riboflavin, Riboflavin-5'-phosphate, Vitamin B2",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E102",
+        "fullName": "Tartrazine",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E104",
+        "fullName": "Quinoline yellow, quinoline yellow",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E105",
+        "fullName": "Solid yellow",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E107",
+        "fullName": "Yellow 2G",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E110",
+        "fullName": "Yellow orange S, Yellow sun FCF",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E111",
+        "fullName": "Orange GGN,Alpha-naphthol orange",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E120",
+        "fullName": "Cochineal, Carminic acid, Carmines",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E121",
+        "fullName": "Red citrus No. 2",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E122",
+        "fullName": "Azorubin, Carmoisine",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E123",
+        "fullName": "Amaranth, Amaranth",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E124",
+        "fullName": "Ponceau 4R, Cochineal Red A",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E125",
+        "fullName": "SX Culvert, Scarlet GN, Scarlet GN",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E126",
+        "fullName": "Ponceau 6R",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E127",
+        "fullName": "Erythrosine",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E128",
+        "fullName": "Red 2G, Azogeranine",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E129",
+        "fullName": "Allura red AC",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E130",
+        "fullName": "Anthraquinone blue, Blue solanthrene RS",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E131",
+        "fullName": "Patent Blue V",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E132",
+        "fullName": "Indigotine, Carmine (e) indigo",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E133",
+        "fullName": "Brilliant blue FCF",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E140",
+        "fullName": "Chlorophylls, Chlorophyllines",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E141",
+        "fullName": "Copper complexes of chlorophylls and chlorophyllins",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E142",
+        "fullName": "Green S, Bright Green BS, Green Lissamine",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E143",
+        "fullName": "Solid green FCF",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E150a",
+        "fullName": "Caramel I - nature (caramel caustic)",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E150b",
+        "fullName": "Caramel II - process caustic sulfite",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E150c",
+        "fullName": "Caramel III - ammonia process",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E150d",
+        "fullName": "Caramel IV - sulfite ammonia process",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E151",
+        "fullName": "Black gloss BN, Black PN, Black Naphtol",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E152",
+        "fullName": "Carbon black (hydrocarbon, ex Black 7984)",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E153",
+        "fullName": "Vegetable Coal, Plant Black",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E154",
+        "fullName": "Brown FK",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E155",
+        "fullName": "HT Brown, Chocolate Brown HT",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E160a",
+        "fullName": "Carotene (beta), β-carotene, Provitamin A",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E160b",
+        "fullName": "Rocou, Annatto, Bixine, Norbixine",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E160c",
+        "fullName": "Paprika extract, Capsanthine, Capsorubine",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E160d",
+        "fullName": "Lycopenes",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E160e",
+        "fullName": "Beta-apo-8'-carotenal (C30), Carotenal (beta-apo-8'-)",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E160f",
+        "fullName": "Ethyl ester of beta-apo-8'-carotenoid acid (C30)",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E161",
+        "fullName": "Xantophylles",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E161a",
+        "fullName": "Flavoxanthine (xanthophylls)",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E161b",
+        "fullName": "Lutein (xanthophylls)",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E161c",
+        "fullName": "Cryptoxanthin (xanthophylls)",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E161d",
+        "fullName": "Rubixanthine (xanthophylls)",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E161e",
+        "fullName": "Violaxanthin (xanthophylls)",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E161f",
+        "fullName": "Rhodoxanthine (xanthophylls)",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E161g",
+        "fullName": "Canthaxanthin (xanthophylls)",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E161h",
+        "fullName": "Zeaxanthin (xanthophylls)",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E161i",
+        "fullName": "Citranaxanthin (xanthophylls)",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E161j",
+        "fullName": "Astaxanthin (Xantophylls)",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E162",
+        "fullName": "Beetroot Red, Betaine",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E163",
+        "fullName": "Anthocyanins, Anthocyanins",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E164",
+        "fullName": "Gardenia Yellow, Saffron, Crocine,Crocetin",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E165",
+        "fullName": "Gardenia Blue",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E166",
+        "fullName": "Sandalwood",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E170",
+        "fullName": "Calcium carbonate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E171",
+        "fullName": "Dioxide of Titanium, Titanium Dioxide",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E172",
+        "fullName": "Iron oxides, Iron hydroxides",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E173",
+        "fullName": "Aluminum",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E174",
+        "fullName": "Silver, Silver",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E175",
+        "fullName": "Gold, Aurum, Au",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E180",
+        "fullName": "Litholrubin BK, Carmine 6B,Ruby Pigment",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E181",
+        "fullName": "Tannins, Tannins, Tannic Acid",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E182",
+        "fullName": "Orseille, Orceine",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E200",
+        "fullName": "Sorbic acid",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E201",
+        "fullName": "Sodium sorbate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E202",
+        "fullName": "Potassium sorbate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E203",
+        "fullName": "Calcium sorbate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E209",
+        "fullName": "Heptyl paraben hydroxybenzoate of hepthyle (para- )",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E210",
+        "fullName": "Benzoic acid",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E211",
+        "fullName": "Sodium Benzoate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E212",
+        "fullName": "Potassium Benzoate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E213",
+        "fullName": "Calcium benzoate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E214",
+        "fullName": "Ethylparaben, ethylhydroxybenzoate (para-)",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E215",
+        "fullName": "Ethylparaben Sodium, Sodium Hydroxybenzoate Sodium (Para-)",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E216",
+        "fullName": "Propylparaben, Propyl Hydroxybenzoate (PARA)",
+        "toxicity": "Very Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E217",
+        "fullName": "Sodium propylparaben, Sodium propyl hydroxybenzoate (para-)",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E218",
+        "fullName": "methylparaben, methylhydroxybenzoate (para)",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E219",
+        "fullName": "Sodium methylparaben, Sodium methylhydroxybenzoate (para-)",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E220",
+        "fullName": "Sulfur Dioxide, Sulfur Dioxide",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E221",
+        "fullName": "Sulfite Sodium",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E222",
+        "fullName": "Sodium bisulfite, Sodium acid sulphite",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E223",
+        "fullName": "Sodium metabisulfite , Sodium pyrosulfite",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E224",
+        "fullName": "Potassium metabisulfite, Potassium pyrosulfite",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E225",
+        "fullName": "Potassium sulphite",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E226",
+        "fullName": "Sulphite Calcium",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E227",
+        "fullName": "Calcium bisulfite, Calcium sulphite acid",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E228",
+        "fullName": "potassium bisulfite, potassium hydrogen sulfite",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E230",
+        "fullName": "Diphenyl, Biphenyl",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E231",
+        "fullName": "Orthophenylphenol, 2-Phenylphenol",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E232",
+        "fullName": "Sodium orthophenylphenol, Sodium orthophenylphenate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E233",
+        "fullName": "Thiabendazole,Benzimidazole",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E234",
+        "fullName": "Nisin",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E235",
+        "fullName": "Natamycin, Pimaricin",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E236",
+        "fullName": "Formic acid",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E237",
+        "fullName": "Sodium formate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E238",
+        "fullName": "Calcium formate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E239",
+        "fullName": "Hexamethylene tetramine",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E240",
+        "fullName": "Formaldehyde, Formaldehyde, Formol",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E241",
+        "fullName": "Guaiac gum",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E242",
+        "fullName": "Dimethyl dicarbonate,DMDC",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E249",
+        "fullName": "Potassium nitrite",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E250",
+        "fullName": "Sodium nitrite",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E251",
+        "fullName": "Sodium nitrate, Chilean saltpeter",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E252",
+        "fullName": "Nitrate of potassium, saltpetre",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E260",
+        "fullName": "Acetic acid (glacial), ethanoic acid",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E261",
+        "fullName": "Potassium acetate, potassium Ethanoate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E262",
+        "fullName": "Sodium acetate, Sodium ethanoate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E263",
+        "fullName": "Calcium acetate, Ethanoate Calcium",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E264",
+        "fullName": "Ammonium acetate, ammonium Ethanoate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E265",
+        "fullName": "Dehydroacetic acid, Dehydracetic acid",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E266",
+        "fullName": "Sodium dehydroacetate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E270",
+        "fullName": "Lactic acid (L-, D- and DL-) (D- )",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E280",
+        "fullName": "Propionic acid",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E281",
+        "fullName": "Sodium Propionate, Sodium Propanoate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E282",
+        "fullName": "Calcium Propionate, Propionate of Calcium",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E283",
+        "fullName": "Potassium Propionate, Potassium Propanoate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E284",
+        "fullName": "Boric acid",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E285",
+        "fullName": "Sodium tetraborate (Borax)",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E290",
+        "fullName": "Carbon dioxide, Carbon dioxide , Carbon dioxide, CO2",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E296",
+        "fullName": "Malic acid (L- or DL-)",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E297",
+        "fullName": "Fumaric acid",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E300",
+        "fullName": "Ascorbic acid, Vitamin C",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E301",
+        "fullName": "Sodium ascorbate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E302",
+        "fullName": "Calcium ascorbate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E303",
+        "fullName": "Potassium ascorbate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E304",
+        "fullName": "Ascorbyl palmitate (i), ascorbyl stearate (ii)",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E306",
+        "fullName": "Tocopherols, Extracts rich in Vitamin E",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E307",
+        "fullName": "Alpha-Tocopherol ( DL-, synthetic)",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E308",
+        "fullName": "Gamma-tocopherol (DL-, synthetic)",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E309",
+        "fullName": "Delta-tocopherol (DL-, synthetic)",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E310",
+        "fullName": "Gallate propyl",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E311",
+        "fullName": "octyl gallate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E312",
+        "fullName": "Dodecyl gallate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E313",
+        "fullName": "Gallate of ethyl",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E314",
+        "fullName": "Guaiac resin",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E315",
+        "fullName": "Erythorbic acid, isoascorbic acid",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E316",
+        "fullName": "Sodium erythorbate, Isoascorbate of sodium",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E317",
+        "fullName": "Potassium Erythorbate, Potassium Isoascorbate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E318",
+        "fullName": "Calcium erythorbate, Calcium Isoascorbate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E319",
+        "fullName": "Tertiary butylhydroquinone, BHQT",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E320",
+        "fullName": "Butylhydroxyanisole, butylated hydroxyanisole, BHA",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E321",
+        "fullName": "Butylhydroxytoluene, butylated hydroxytoluene, BHT",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E322",
+        "fullName": "Lecithins",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E323",
+        "fullName": "Anoxomer",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E324",
+        "fullName": "Ethoxyquine",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E325",
+        "fullName": "Sodium Lactate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E326",
+        "fullName": "Potassium Lactate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E327",
+        "fullName": "Calcium lactate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E328",
+        "fullName": "Ammonium lactate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E329",
+        "fullName": "Magnesium lactate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E330",
+        "fullName": "Citric acid",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E331",
+        "fullName": "Sodium citrate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E332",
+        "fullName": "Potassium citrate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E333",
+        "fullName": "Calcium citrate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E334",
+        "fullName": "Tartaric acid, L (+) - tartaric acid",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E335",
+        "fullName": "Sodium tartrate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E336",
+        "fullName": "Potassium tartrate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E337",
+        "fullName": "Double tartrate of sodium and potassium",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E338",
+        "fullName": "Phosphoric acid, orthophosphoric acid",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E339",
+        "fullName": "Sodium phosphates, Sodium orthophosphates",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E340",
+        "fullName": "Potassium Phosphates, Potassium Orthophosphates",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E341",
+        "fullName": "Calcium phosphates, Calcium orthophosphates",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E342",
+        "fullName": "Ammonium phosphates, ammonium monophosphates",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E343",
+        "fullName": "Magnesium phosphates, magnesium monophosphates",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E344",
+        "fullName": "Lecithin Citrate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E345",
+        "fullName": "Magnesium citrate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E349",
+        "fullName": "Ammonium Malate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E350",
+        "fullName": "Sodium malate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E351",
+        "fullName": "Potassium malate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E352",
+        "fullName": "Calcium malate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E353",
+        "fullName": "Metatartaric acid",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E354",
+        "fullName": "Calcium tartrate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E355",
+        "fullName": "Adipic acid",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E356",
+        "fullName": "Sodium adipates",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E357",
+        "fullName": "Potassium Adipates",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E359",
+        "fullName": "Ammonium Adipates",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E363",
+        "fullName": "Succinic acid",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E364",
+        "fullName": "Sodium Succinates",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E365",
+        "fullName": "Sodium fumarates",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E366",
+        "fullName": "Potassium fumarates",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E367",
+        "fullName": "Calcium fumarates",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E368",
+        "fullName": "Ammonium fumarates",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E370",
+        "fullName": "Heptonolactone (1,4-)",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E375",
+        "fullName": "Niacin, Nicotinic acid",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E380",
+        "fullName": "Triammonium citrate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E381",
+        "fullName": "Ferric ammonium citrate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E383",
+        "fullName": "Calcium glycerophosphate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E384",
+        "fullName": "Isopropyl citrates",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E385",
+        "fullName": "Calcium disodium EDTA",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E386",
+        "fullName": "Disodium EDTA",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E387",
+        "fullName": "Oxystearin",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E388",
+        "fullName": "Thiodipropionic acid, Thiodipropanoic acid, TDPA",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E389",
+        "fullName": "Dilauryl thiodipropionate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E390",
+        "fullName": "Distearyl thiodipropionate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E391",
+        "fullName": "Phytic acid",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E392",
+        "fullName": "Rosemary extract",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E399",
+        "fullName": "Calcium lactobionate",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E400",
+        "fullName": "Alginic acid",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E401",
+        "fullName": "Sodium alginate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E402",
+        "fullName": "Potassium alginate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E403",
+        "fullName": "Ammonium alginate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E404",
+        "fullName": "Calcium alginate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E405",
+        "fullName": "Propylene glycol alginate, 1,2-propane alginate diol",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E406",
+        "fullName": "Agar-Agar, Layor Carang, Isinglass of Japan",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E407",
+        "fullName": "Carrageenan, Carrageenan, Furcellaran, Irish Moss",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E407a",
+        "fullName": "Semi-refined carrageenan, transformed Eucheuma alga",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E408",
+        "fullName": "Baker's yeast glycan",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E409",
+        "fullName": "Arabinogalactan",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E410",
+        "fullName": "Locust bean gum, Locust bean flour",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E411",
+        "fullName": "Oat Gum",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E412",
+        "fullName": "Guar gum",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E413",
+        "fullName": "Gum tragacanth, Dragon gum, Tragacanth",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E414",
+        "fullName": "Gum arabic, acacia gum",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E415",
+        "fullName": "Xanthan gum",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E416",
+        "fullName": "Karaya gum, Gum sterculia",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E417",
+        "fullName": "Tara rubber",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E418",
+        "fullName": "Gellan Gum",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E419",
+        "fullName": "Ghatti Gum",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E420",
+        "fullName": "Sorbitol, Sorbitol syrup",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E421",
+        "fullName": "Mannitol",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E422",
+        "fullName": "Glycerol, Glycerin",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E424",
+        "fullName": "Curdlan",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E425",
+        "fullName": "Konjac Gum , Konjac Glucomannan, Konjac Flour",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E426",
+        "fullName": "Soya Hemicellulose",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E427",
+        "fullName": "Gum cassia",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E428",
+        "fullName": "Gelatin",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E429",
+        "fullName": "Peptones",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E430",
+        "fullName": "Polyoxyethylene stearate 8",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E431",
+        "fullName": "40 polyoxyethylene stearate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E432",
+        "fullName": "Polysorbate 20, Tween 20",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E433",
+        "fullName": "Polysorbate 80, Tween 80",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E434",
+        "fullName": "Polysorbate 40, Tween 40",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E435",
+        "fullName": "Polysorbate 60, Tween 60",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E436",
+        "fullName": "Polysorbate 65, Tween 65",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E440i",
+        "fullName": "Pectin",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E440ii",
+        "fullName": "Amido pectin",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E441",
+        "fullName": "Hydrogenated superglycerinated rapeseed oil",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E442",
+        "fullName": "Ammonium phosphatides",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E443",
+        "fullName": "Brominated vegetable oil",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E444",
+        "fullName": "Sucrose isobutyrate acetate, SAIB",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E445",
+        "fullName": "Glycerol ester of resins of wood",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E446",
+        "fullName": "Succistarin",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E450",
+        "fullName": "Diphosphates, Pyrophosphates",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E451",
+        "fullName": "Triphosphates",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E452",
+        "fullName": "Polyphosphates",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E456",
+        "fullName": "Polyaspartate potassium",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E457",
+        "fullName": "Cyclodextrin (Alpha-), AlphaCD, α- Cyclodextrin",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E458",
+        "fullName": "Cyclodextrin (Gamma-), GammaCD, γ-Cyclodextrin",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E459",
+        "fullName": "Cyclodextrin (Beta -), BetaCD, β-Cyclodextrin",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E460",
+        "fullName": "Celluloses",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E461",
+        "fullName": "Methyl cellulose",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E462",
+        "fullName": "Ethyl cellulose",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E463",
+        "fullName": "Hydroxypropyl cellulose",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E464",
+        "fullName": "Hydroxypropyl methyl cellulose",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E465",
+        "fullName": "Methylethylcellulose, MEC",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E466",
+        "fullName": "Sodium carboxymethylcellulose , Cellulose gum",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E467",
+        "fullName": "Ethyl hydroxyethyl cellulose",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E468",
+        "fullName": "Carboximethyl crosslinked cellulose cellulose, crosslinked cellulosic gum",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E469",
+        "fullName": "sodium carboxymethyl cellulose hydrolyzed enzymatically, ...",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E470",
+        "fullName": "Salts fatty acids (Al, NH4, Ca, Mg, K, Na)",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E470a",
+        "fullName": "Salts of sodium, potassium and calcium of fatty acids",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E470b",
+        "fullName": "Fatty acid magnesium salts",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E471",
+        "fullName": "Mono and diglycerides of fatty acids",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E472a",
+        "fullName": "Acetic esters of mono- and diglycerides of fatty acids",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E472b",
+        "fullName": "Lactic esters of mono- and diglycerides of fatty acids",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E472c",
+        "fullName": "Citric esters of mono- and diglycerides of fatty acids",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E472d",
+        "fullName": "Tartaric esters of mono- and diglycerides of fatty acids",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E472e",
+        "fullName": "Mono- and diacetyltartaric esters of mono- and diglycerides of fatty acids",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E472f",
+        "fullName": "Acetate and tartaric mixed esters of mono- and diglycerides of fatty acids",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E472g",
+        "fullName": "Succinyl monoglycerides",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E473",
+        "fullName": "Sucroesters of fatty acids, Esters of sucrose of fatty acids",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E473a",
+        "fullName": "Type I and Type II sucrose oligoester",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E474",
+        "fullName": "Sucroglycerides, Sucroglycerides",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E475",
+        "fullName": "Polyglycerol esters of fatty acids",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E476",
+        "fullName": "Polyglycerol polyricinoleate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E477",
+        "fullName": "Propylene glycol esters of fatty acids",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E478",
+        "fullName": "Glyceric and propylene glycol esters of lactylic fatty acids",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E479b",
+        "fullName": "Oil of heat-oxidized soybean",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E480",
+        "fullName": "Dioctyl Sodium Sulfosuccinate, Docusate Sodium, DSS",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E481",
+        "fullName": "Sodium Lactylates, Sodium Stearoyl-2-Lactylate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E482",
+        "fullName": "Calcium Lactylates, Calcium Stearoyl-2-Lactylate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E483",
+        "fullName": "Stearyl tartrate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E484",
+        "fullName": "Stearyl citrate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E485",
+        "fullName": "Stearoyl fumarate sodium",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E486",
+        "fullName": "Stearoyl calcium fumarate",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E487",
+        "fullName": "Sodium lauryl sulphate, LSS",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E488",
+        "fullName": "Mono and diglycerides ethoxylates",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E489",
+        "fullName": "Methylglycoside ester ofcoconut oil",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E491",
+        "fullName": "Sorbitan monostearate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E492",
+        "fullName": "Sorbitan tristearate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E493",
+        "fullName": "Sorbitan monolaurate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E494",
+        "fullName": "Sorbitan monooleate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E495",
+        "fullName": "Sorbitan monopalmitate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E496",
+        "fullName": "Sorbitan trioleate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E500",
+        "fullName": "Sodium carbonates",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E501",
+        "fullName": "Potassium carbonate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E502",
+        "fullName": "Carbonates",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E503",
+        "fullName": "Ammonium carbonate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E504",
+        "fullName": "Magnesium carbonates",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E505",
+        "fullName": "Iron carbonates, Ferrous carbonates",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E507",
+        "fullName": "Hydrochloric acid",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E508",
+        "fullName": "Potassium Chloride",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E509",
+        "fullName": "Calcium chloride",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E510",
+        "fullName": "Ammonium Chloride",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E511",
+        "fullName": "Magnesium Chloride",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E512",
+        "fullName": "Tin Chloride, Stannous Chloride",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E513",
+        "fullName": "Sulfuric Acid",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E514",
+        "fullName": "Sodium sulphate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E515",
+        "fullName": "Potassium sulphate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E516",
+        "fullName": "Calcium sulphate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E517",
+        "fullName": "Ammonium sulphate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E518",
+        "fullName": "Magnesium sulphate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E519",
+        "fullName": "Copper sulphate II, cupric sulphate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E520",
+        "fullName": "Aluminum sulphate (anhydrous)",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E521",
+        "fullName": "Sodium aluminum sulphate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E522",
+        "fullName": "Potassium aluminum sulphate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E523",
+        "fullName": "Ammonium aluminum sulphate, Sulfate d ammonium aluminum",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E524",
+        "fullName": "Sodium hydroxide",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E525",
+        "fullName": "Potassium hydroxide",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E526",
+        "fullName": "Calcium hydroxide",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E527",
+        "fullName": "Ammonium hydroxide, Ammonia liquor, Ammonia solution",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E528",
+        "fullName": "Magnesium Hydroxide, Milk of Magnesia",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E529",
+        "fullName": "Calcium Oxide, Lime, Quicklime",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E530",
+        "fullName": "Magnesium oxide",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E535",
+        "fullName": "Sodium ferrocyanide",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E536",
+        "fullName": "Potassium ferrocyanide",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E537",
+        "fullName": "Iron Hexacyanomanganate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E538",
+        "fullName": "Calcium ferrocyanide",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E539",
+        "fullName": "Sodium thiosulfate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E540",
+        "fullName": "Phosphate Calcium Acid, Hydrogen Phosphate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E541",
+        "fullName": "Sodium-Aluminum Phosphate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E542",
+        "fullName": "Bone phosphate, Edible bone phosphate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E544",
+        "fullName": "Calcium polyphosphates",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E545",
+        "fullName": "Ammonium polyphosphates",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E546",
+        "fullName": "Magnesium diphosphates, Magnesium pyrophosphates",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E550",
+        "fullName": "Sodium silicate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E551",
+        "fullName": "Silicon dioxide (amorphous), Silica (amorphous)",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E552",
+        "fullName": "Calcium silicate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E553",
+        "fullName": "Magnesium silicate, Magnesium trisilicate, Talc",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E554",
+        "fullName": "Alumino-Sodium Silicate, Sodium Silicoaluminate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E555",
+        "fullName": "Alumino-potassium silicate, potassium silocoaluminate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E556",
+        "fullName": "Calcium calcium silicate, calcium silicoaluminate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E557",
+        "fullName": "Zinc Silicate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E558",
+        "fullName": "Bentonite",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E559",
+        "fullName": "Aluminum silicate (light or heavy kaolin)",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E560",
+        "fullName": "Potassium silicate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E570",
+        "fullName": "Acids bold",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E572",
+        "fullName": "Magnesium Stearate, Magnesium Stearate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E574",
+        "fullName": "Gluconic acid",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E575",
+        "fullName": "Glucono-delta-lactone",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E576",
+        "fullName": "Sodium Gluconate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E577",
+        "fullName": "Potassium Gluconate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E578",
+        "fullName": "Calcium gluconate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E579",
+        "fullName": "Ferrous Gluconate, Ferrous Gluconate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E580",
+        "fullName": "Magnesium Gluconate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E585",
+        "fullName": "Iron Lactate, Ferrous Lactate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E586",
+        "fullName": "Hexylresorcinol (4-)",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E620",
+        "fullName": "Glutamic acid",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E621",
+        "fullName": "Sodium Glutamate, Monosodium Glutamate, GMS",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E622",
+        "fullName": "Potassium Glutamate, Glutamate monopotassic",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E623",
+        "fullName": "Calcium Glutamate, Monocalcic Diglutamate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E624",
+        "fullName": "Ammonium Glutamate, Monoammonium Glutamate",
+        "toxicity": "Very Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E625",
+        "fullName": "Magnesium Glutamate, Monomagnesic Diglutamate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E626",
+        "fullName": "Guanylic Acid, Guanosine 5'- monophosphate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E627",
+        "fullName": "Guanylate disodium, Guanylate-5 'sodium",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E628",
+        "fullName": "Potassium Guanylate, 5'-Potassium Guanylate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E629",
+        "fullName": "Calcium Guanylate, Guanylate 5'-Calcium",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E630",
+        "fullName": "Inosinic Acid, Inosine 5'-monophosphate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E631",
+        "fullName": "Disodium Inosinate, Sodium Inosinate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E632",
+        "fullName": "Dipotassium Inosinate, Potassium Inosinate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E633",
+        "fullName": "Calcium Inosinate, Calcium Inosinate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E634",
+        "fullName": "5'-Calcium Ribonucleotide, Ribonucleotide Calcium",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E635",
+        "fullName": "5'-Disodium Ribonucleotide, Sodium Ribonucleotide",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E636",
+        "fullName": "Maltol",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E637",
+        "fullName": "Ethylmaltol, Ethyl-maltol, Ethyl maltol",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E638",
+        "fullName": "Sodium aspartate",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E639",
+        "fullName": "Alanine",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E640",
+        "fullName": "Glycine and its sodium salt",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E641",
+        "fullName": "Leucine",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E642",
+        "fullName": "Lysine Hydrochloride",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E650",
+        "fullName": "zinc acetate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E900",
+        "fullName": "Dimethyl polysiloxane, polydimethylsiloxane, Dimethicone, PDMS",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E900b",
+        "fullName": "Methylphenylpolysiloxane, Polyphenylmethylsiloxane, Phenyl trimethicone",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E901",
+        "fullName": "Beeswax, White Wax, Yellow Wax",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E902",
+        "fullName": "Candelilla wax",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E903",
+        "fullName": "Wax of carnauba",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E904",
+        "fullName": "Shellac Resin, Shellac, Shellac, Bleached",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E905",
+        "fullName": "Microcrystalline Wax, Petroleum Wax, Synthetic Paraffin",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E905a",
+        "fullName": "Food Grade Mineral Oil",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E905b",
+        "fullName": "Vaseline, Petroleum Jelly, Petrolatum",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E905c",
+        "fullName": "Microcrystalline Wax, Petroleum Wax, Paraffin Wax",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E905d",
+        "fullName": "Mineral oil (high viscosity)",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E905e",
+        "fullName": "Mineral oil (medium and low viscosity, category I)",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E905f",
+        "fullName": "Mineral oil (medium viscosity and weak, category II)",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E905g",
+        "fullName": "Mineral oil (medium and low viscosity, category III)",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E906",
+        "fullName": "Benjoin Gum, Benzoin Resin, Benzoic Gum",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E907",
+        "fullName": "Hydrogenated Poly-1-decene, Hydrogenated Polydecene",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E908",
+        "fullName": "Wax of Sound of rice",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E909",
+        "fullName": "Whale White Wax",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E910",
+        "fullName": "Esters of waxes",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E911",
+        "fullName": "Methyl esters of fatty acids, EMAG",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E912",
+        "fullName": "Esters of montanic acid",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E913",
+        "fullName": "Lanolin",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E914",
+        "fullName": "Oxidized polyethylene wax",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E915",
+        "fullName": "Rosin Esters",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E916",
+        "fullName": "Calcium iodate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E917",
+        "fullName": "Potassium iodate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E918",
+        "fullName": "Nitrogen oxides",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E919",
+        "fullName": "Nitrosyl chloride",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E920",
+        "fullName": "Cysteine ​​and its hydrochlorides (sodium and potassium)",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E921",
+        "fullName": "Cystine and its hydrochlorides (sodium and potassium salts)",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E922",
+        "fullName": "Potassium persulfate",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E923",
+        "fullName": "Ammonium persulfate",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E924a",
+        "fullName": "Potassium bromate",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E924b",
+        "fullName": "Calcium bromate",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E925",
+        "fullName": "Chlorine, Chlorine",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E926",
+        "fullName": "Chlorine Peroxide, Chlorine Dioxide, Chlorine Oxide",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E927a",
+        "fullName": "Azodicarbonamide, Azoformamide",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E927b",
+        "fullName": "Urea, Carbamide",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E928",
+        "fullName": "Benzoyl Peroxide",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E929",
+        "fullName": "Acetone Peroxide",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E930",
+        "fullName": "Calcium peroxide",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E938",
+        "fullName": "Argon",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E939",
+        "fullName": "Helium",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E940",
+        "fullName": "Dichlorodifluoromethane",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E941",
+        "fullName": "Nitrogen",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E942",
+        "fullName": "Nitrous oxide, nitrous oxide",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E943a",
+        "fullName": "Butane",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E943b",
+        "fullName": "Isobutane",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E944",
+        "fullName": "Propane",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E945",
+        "fullName": "Chloropentafluoroethane",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E946",
+        "fullName": "Octafluorocyclobutane",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E948",
+        "fullName": "Oxygen",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E949",
+        "fullName": "Hydrogen",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E950",
+        "fullName": "Acesulfame potassium, Acesulfame-K",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E951",
+        "fullName": "Aspartame",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E952",
+        "fullName": "Cyclamates",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E953",
+        "fullName": "Isomalt (hydrogenated isomaltulose)",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E954",
+        "fullName": "Saccharin and its Na, Ca and K",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E955",
+        "fullName": "Sucralose (trichlorogalactosucrose)",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E956",
+        "fullName": "Alitame",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E957",
+        "fullName": "Thaumatin",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E958",
+        "fullName": "Glycyrrhizin, Glycyrrhizic acid, Liquorice, Licorice",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E959",
+        "fullName": "Neohesperidine Dihydrochalcone, Neohesperidine DC, NHDC",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E960",
+        "fullName": "Steviol glycosides",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E961",
+        "fullName": "Neotame",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E962",
+        "fullName": "Aspartame acesulfame salt)",
+        "toxicity": "Very toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E963",
+        "fullName": "Tagatose",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E964",
+        "fullName": "Polyglycitol syrup",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E965",
+        "fullName": "Maltitol, maltitol syrup",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E966",
+        "fullName": "Lactitol",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E967",
+        "fullName": "Xylitol",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E968",
+        "fullName": "Erythritol",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E999",
+        "fullName": "Extracts of quillaia (type I and II)",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1000",
+        "fullName": "Cholic acid",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1001",
+        "fullName": "Choline (salts and esters of -)",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1100",
+        "fullName": "Amylases",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1101",
+        "fullName": "Protease (Protease, Papain, Bromelain, Ficine)",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1102",
+        "fullName": "Glucose oxidase",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1103",
+        "fullName": "Invertases",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1104",
+        "fullName": "Lipases",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1105",
+        "fullName": "Lysozyme, Lysozyme hydrochloride",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1200",
+        "fullName": "Polydextroses A and N, Modified Polydextroses",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1201",
+        "fullName": "Polyvinylpyrrolidone, PVP",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1202",
+        "fullName": "Polyvinylpolypyrrolidone, PVPP",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1203",
+        "fullName": "Polyvinyl Alcohol",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1204",
+        "fullName": "Pullulan, Pullulane",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1205",
+        "fullName": "Basic Methacrylate Copolymer",
+        "toxicity": "",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1400",
+        "fullName": "Roasted Starch, Dextrins, known as Starch",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1401",
+        "fullName": "Starch treated with acids, known as modified starch",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1402",
+        "fullName": "treated starch Alkali, said modified starch",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1403",
+        "fullName": "Blanched starch, modified starch",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1404",
+        "fullName": "Oxidized starch, modified starch",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1405",
+        "fullName": "Starch treated with enzymes, called starch",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1410",
+        "fullName": "Starch phosphate, modified starch",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1411",
+        "fullName": "Diamidon glycerol, Diamidon glycerin, modified starch",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1412",
+        "fullName": "Diamidon phosphate, modified starch",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1413",
+        "fullName": "Phosphate phosphate diamide, modified starch",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1414",
+        "fullName": "acetylated diamidon phosphate, modified starch",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1420",
+        "fullName": "Acetate starch, Acetate starch, modified starch",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1421",
+        "fullName": "Acetylated starch with vinyl acetate, modified starch",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1422",
+        "fullName": "Acetyl diamidon adipate, modified starch",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1440",
+        "fullName": "Hydroxypropyl starch, modified starch",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1441",
+        "fullName": "Hydroxypropylated diamidon glycerin, modified starch",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1442",
+        "fullName": "Hydroxypropyl diamidon phosphate, called modified starch",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1450",
+        "fullName": "Octenyl Sodium Starch Succinate, Amidon Modified",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1451",
+        "fullName": "Oxidized acetylated starch, modified starch",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1452",
+        "fullName": "Octenyl succinate of alumina starch, modified starch",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1503",
+        "fullName": "Castor oil",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1505",
+        "fullName": "Triethyl citrate, Triethyl citrate, Triethyl citrate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1510",
+        "fullName": "Ethanol, Ethyl Alcohol",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1517",
+        "fullName": "Diacetin, glycerol diacetate, glyceryl diacetate",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1518",
+        "fullName": "Triacetin, Glycerol triacetate , Glyceryl triacetate",
+        "toxicity": "Little / not toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1519",
+        "fullName": "Benzyl alcohol, Benzyl alcohol, Phenylmethanol",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1520",
+        "fullName": "Propylene glycol, 1,2-propanediol",
+        "toxicity": "Do not abuse",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1521",
+        "fullName": "Polyethylene glycol, Macrogol, PEG",
+        "toxicity": "Toxic",
+        "FIELD4": ""
+    },
+    {
+        "name": "E1522",
+        "fullName": "Calcium lignosulfonate (40-65)",
+        "toxicity": "Doubtful",
+        "FIELD4": ""
+    }
+]

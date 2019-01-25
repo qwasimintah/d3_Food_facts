@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <style type="text/css" media="screen, print">
+        body {
+            margin: 30px 50px;
+            font-family: sans-serif;
+        }
+
+        #title {
+            font-weight: bold;
+        }
+
+        .bar {
+            fill-opacity: 0.5;
+        }
+
+        .bar.left {
+            fill: steelblue;
+        }
+
+        .bar.right {
+            fill: firebrick;
+        }
+    </style>
+    <title>Additives</title>
+</head>
+
+<body>
+    <h1>Additives</h1>
+    <select id="selectedCategory"></select>
+    <select id="selectedLabel"></select>
+    <button id="valid">Go</button>
+    <svg id="graph"></svg>
+    <!-- <div class="float_right">
+        <p id="title"> </p> -->
+    </div>
+
+    <script src="../vendor/d3/d3.js"></script>
+    <script>
+        // Loading data
+        //var error, categories, additives, labels, products;
+        var error;
+
+        // Drop down selection menus
+        var categoriesList = ['cookies', 'sandwiches', 'salty-snacks', 'refrigerated-food', 'pizza', 'pasta-dishes', 'plant-based-meals', 'prepared-salad', 'soup'];
+        var labelsList = ['vegan', 'vegetarian', 'organic', 'gluten-free', 'no-preservatives'];
+
+        d3.select('#selectedCategory').selectAll("option")
+            .data(categoriesList)
+            .enter().append('option')
+            .attr('value', (d => d))
+            .text((d => d));
+        d3.select('#selectedLabel').selectAll("option")
+            .data(labelsList)
+            .enter().append('option')
+            .attr('value', (d => d))
+            .text((d => d));
+
+        d3.select('#valid')
+            .attr('onclick', 'bla()');
+
+        function bla() {
+            d3.selectAll("svg > *").remove();
+            d3.queue()
+                .defer(d3.tsv, "../tsv/products_categories_full.tsv")
+                .defer(d3.tsv, "../tsv/products_additives.tsv")
+                .defer(d3.tsv, "../tsv/products_labels.tsv")
+                //.defer(d3.tsv, "../tsv/products_.tsv")
+                // .defer(d3.tsv, "../tsv/products_categories_full_.tsv", categories_)
+                // .defer(d3.tsv, "../tsv/products_additives_.tsv", additives_)
+                // .defer(d3.tsv, "../tsv/products_labels.tsv", labels_)
+                // .defer(d3.tsv, "../tsv/products_.tsv", products_)
+                // .defer(d3.tsv, "../tsv/products_categories_full.tsv")
+                // .defer(d3.tsv, "../tsv/products_additives.tsv")
+                // .defer(d3.tsv, "../tsv/products_labels.tsv")
+                // .defer(d3.tsv, "../tsv/products.tsv")
+                .await(combine);
+
+            var categories, additives, labels; //, products;
+
+
+
+            function combine(error, categories_, additives_, labels_){ //, products_) {
+                if (error) throw error;
+
+                var selectedLabel = d3.select('#selectedLabel').node().value;
+                var selectedCategory = d3.select('#selectedCategory').node().value;
+
+                // Data manipulation
+                categorySelection = categories_
+                    .filter(d => d.category == selectedCategory)
+                    .map(d => d.code);
+
+                leftCodes = labels_
+                    .filter(d => categorySelection.includes(d.code))
+                    .filter(d => d.label == selectedLabel)
+                    .map(d => d.code);
+
+                rightCodes = categorySelection
+                    .filter(d => !leftCodes.includes(d));
+
+                var additivePerProduct = new Object();
+                additives_
+                    .filter(d => categorySelection.includes(d.code))
+                    .map(function (d) {
+                        if (typeof additivePerProduct[d.code] == 'undefined') {
+                            additivePerProduct[d.code] = new Array();
+                            additivePerProduct[d.code].push(d.additive);
+                        } else { additivePerProduct[d.code].push(d.additive); }
+                    });
+
+                // Compute maximum number of additives in a product
+                var maxAdditives = 0;
+                var code;
+                for (let code_ in additivePerProduct) {
+                    if (additivePerProduct[code_].length > maxAdditives) {
+                        maxAdditives = additivePerProduct[code_].length;
+                        code = code_;
+                    }
+                }
+
+                // Creation of histograms
+                var leftHist = new Array(maxAdditives + 1);
+                var rightHist = new Array(maxAdditives + 1);
+                leftHist.fill(0);
+                rightHist.fill(0);
+                for (let code_ in additivePerProduct) {
+                    if (leftCodes.includes(code_)) {
+                        leftHist[additivePerProduct[code_].length] += 1;
+                    } else {
+                        rightHist[additivePerProduct[code_].length] += 1;
+                    }
+                }
+
+                leftHist_ = new Array();
+                var rightHist_ = new Array();
+                for (let a in leftHist) {
+                    var tuple = { class: a, occ: leftHist[a] }
+                    leftHist_.push(tuple)
+                }
+
+                for (let a in rightHist) {
+                    var tuple = { class: a, occ: rightHist[a] }
+                    rightHist_.push(tuple)
+                }
+
+                // Margins
+                var margin = { top: 70, right: 70, bottom: 40, left: 70, middle: 28 },
+                    width = 800 - margin.left - margin.right,
+                    height = 600 - margin.top - margin.bottom;
+
+                // Place to work on
+                var svg = d3.select('#graph')
+                    .attr("width", width + margin.left + margin.right)
+                    .attr("height", height + margin.top + margin.bottom)
+                    .append("g")
+                    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+                // Divide space into two equal space
+                var regionWidth = (width / 2) - margin.middle;
+                var originLeft = regionWidth,
+                    originRight = width - regionWidth;
+
+                // Scales
+                var xLeft = d3.scaleLinear()
+                    .range([regionWidth, 0])
+                var xRight = d3.scaleLinear()
+                    .range([0, regionWidth])
+
+                var y = d3.scaleBand()
+                    .domain(leftHist_.map(function (d) { return d.class; }))
+                    .range([0, height]);
+
+                // Axis
+                var xAxisLeft = d3.axisTop(xLeft);
+                var xAxisRight = d3.axisTop(xRight);
+
+                var yAxisLeft = d3.axisRight(y)
+                    .tickPadding(margin.middle - 5);
+
+                var yAxisRight = d3.axisLeft(y)
+                    .tickFormat('');
+
+                // Draw axis
+                svg.append('g')
+                    .attr('class', 'axis y left')
+                    .attr('transform', translation(originLeft, 0))
+                    .call(yAxisLeft)
+                    .selectAll('text')
+                    .style('text-anchor', 'middle');
+
+                svg.append('g')
+                    .attr('class', 'axis y right')
+                    .attr('transform', translation(originRight, 0))
+                    .call(yAxisRight);
+
+                svg.append('g')
+                    .attr('class', 'axis x left')
+                    .attr('transform', translation(0, 0))
+                    .call(xAxisLeft);
+
+                svg.append('g')
+                    .attr('class', 'axis x right')
+                    .attr('transform', translation(originRight, 0))
+                    .call(xAxisRight);
+
+                // Histogram's bar groups
+                var leftBarGroup = svg.append('g')
+                    .attr('transform', translation(originLeft, 0) + 'scale(-1,1)');
+                var rightBarGroup = svg.append('g')
+                    .attr('transform', translation(originRight, 0));
+
+                // Draw bars
+                leftBarGroup.selectAll('.bar.left')
+                    .data(leftHist_)
+                    .enter().append('rect')
+                    .attr('class', 'bar left')
+                    .attr('x', 0)
+                    .attr('y', function (d) { return y(d.class); })
+                    .attr('width', function (d) { max = Math.max.apply(null, leftHist_.map(d => d.occ)); return xRight(d.occ / max); })
+                    .attr('height', y.bandwidth())
+
+                rightBarGroup.selectAll('.bar.right')
+                    .data(rightHist_)
+                    .enter().append('rect')
+                    .attr('class', 'bar right')
+                    .attr('x', 0)
+                    .attr('y', function (d) { return y(d.class); })
+                    .attr('width', function (d) { max = Math.max.apply(null, rightHist_.map(d => d.occ)); return xRight(d.occ / max); })
+                    .attr('height', y.bandwidth())
+
+                // Misc
+                function translation(x, y) {
+                    return 'translate(' + x + ',' + y + ')';
+                }
+            }
+        }
+
+
+
+
+
+
+
+
+    </script>
+</body>
+
+</html>

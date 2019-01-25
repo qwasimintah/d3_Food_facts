@@ -1,0 +1,3002 @@
+[
+ {
+   "FIELD1": "E100",
+   "FIELD2": "Curcumines, Jaune de curcumine",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E101",
+   "FIELD2": "Riboflavine, Riboflavine-5'-phosphate, Vitamine B2",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E102",
+   "FIELD2": "Tartrazine",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E104",
+   "FIELD2": "Jaune de quinoléine, Jaune de quinoline",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E105",
+   "FIELD2": "Jaune solide",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E107",
+   "FIELD2": "Jaune 2G",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E110",
+   "FIELD2": "Jaune orangé S, Jaune soleil FCF",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E111",
+   "FIELD2": "Orange GGN, Alpha-naphthol orange",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E120",
+   "FIELD2": "Cochenille, Acide Carminique, Carmins",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E121",
+   "FIELD2": "Rouge citrus no. 2",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E122",
+   "FIELD2": "Azorubine, Carmoisine",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E123",
+   "FIELD2": "Amarante, Amaranthe",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E124",
+   "FIELD2": "Ponceau 4R, Rouge cochenille A",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E125",
+   "FIELD2": "Ponceau SX, Ecarlate GN, Scarlet GN",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E126",
+   "FIELD2": "Ponceau 6R",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E127",
+   "FIELD2": "Erythrosine",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E128",
+   "FIELD2": "Rouge 2G, Azogéranine",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E129",
+   "FIELD2": "Rouge allura AC",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E130",
+   "FIELD2": "Bleu anthraquinonique, Bleu solanthrène RS",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E131",
+   "FIELD2": "Bleu patenté V",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E132",
+   "FIELD2": "Indigotine, Carmin(e) d'indigo",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E133",
+   "FIELD2": "Bleu brillant FCF",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E140",
+   "FIELD2": "Chlorophylles, Chlorophyllines",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E141",
+   "FIELD2": "Complexes cuivriques des chlorophilles et des chlorophyllines",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E142",
+   "FIELD2": "Vert S, Vert brillant BS, Vert lissamine",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E143",
+   "FIELD2": "Vert solide FCF",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E150a",
+   "FIELD2": "Caramel I - nature (caramel caustique)",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E150b",
+   "FIELD2": "Caramel II - procédé au sulfite caustique",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E150c",
+   "FIELD2": "Caramel III - procédé à l'ammoniaque",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E150d",
+   "FIELD2": "Caramel IV - procédé à l'ammoniaque sulfite",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E151",
+   "FIELD2": "Noir brillant BN, Noir PN, Naphtol black",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E152",
+   "FIELD2": "Noir de carbone (hydrocarbure, ex-Noir 7984)",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E153",
+   "FIELD2": "Charbon végétal, Noir végétal",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E154",
+   "FIELD2": "Brun FK",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E155",
+   "FIELD2": "Brun HT, Brun chocolat HT",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E160a",
+   "FIELD2": "Carotène (bêta-), β-carotène, Provitamine A",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E160b",
+   "FIELD2": "Rocou, Annatto, Bixine, Norbixine",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E160c",
+   "FIELD2": "Extrait de paprika, Capsanthéine, Capsorubine",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E160d",
+   "FIELD2": "Lycopènes",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E160e",
+   "FIELD2": "Bêta-apo-8'-caroténal (C30), Caroténal (bêta-apo-8'-)",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E160f",
+   "FIELD2": "Ester éthylique de l'acide bêta-apo-8'-caroténoïque (C30)",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E161",
+   "FIELD2": "Xantophylles",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E161a",
+   "FIELD2": "Flavoxanthine (xanthophylles)",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E161b",
+   "FIELD2": "Lutéine (xanthophylles)",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E161c",
+   "FIELD2": "Cryptoxanthine (xanthophylles)",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E161d",
+   "FIELD2": "Rubixanthine (xanthophylles)",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E161e",
+   "FIELD2": "Violaxanthine (xanthophylles)",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E161f",
+   "FIELD2": "Rhodoxanthine (xanthophylles)",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E161g",
+   "FIELD2": "Canthaxanthine (xanthophylles)",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E161h",
+   "FIELD2": "Zeaxanthine (xantophylles)",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E161i",
+   "FIELD2": "Citranaxanthine (xantophylles)",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E161j",
+   "FIELD2": "Astaxanthine (xantophylles)",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E162",
+   "FIELD2": "Rouge de betterave, Bétanine",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E163",
+   "FIELD2": "Anthocyanes, Anthocyanines",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E164",
+   "FIELD2": "Jaune de gardénia, Safran, Crocine, Crocétine",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E165",
+   "FIELD2": "Bleu de gardénia",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E166",
+   "FIELD2": "Bois de santal",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E170",
+   "FIELD2": "Carbonate de calcium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E171",
+   "FIELD2": "Dioxyde de titane, Bioxyde de titane",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E172",
+   "FIELD2": "Oxydes de fer, Hydroxydes de fer",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E173",
+   "FIELD2": "Aluminium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E174",
+   "FIELD2": "Argent, Argentum",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E175",
+   "FIELD2": "Or, Aurum, Au",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E180",
+   "FIELD2": "Litholrubine BK, Carmin 6B, Pigment rubis",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E181",
+   "FIELD2": "Tanins, Tannins, \"Acide tannique\"",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E182",
+   "FIELD2": "Orseille, Orcéine",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E200",
+   "FIELD2": "Acide sorbique",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E201",
+   "FIELD2": "Sorbate de sodium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E202",
+   "FIELD2": "Sorbate de potassium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E203",
+   "FIELD2": "Sorbate de calcium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E209",
+   "FIELD2": "Heptyl parabène, Hydroxybenzoate d'hepthyle (para-)",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E210",
+   "FIELD2": "Acide benzoïque",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E211",
+   "FIELD2": "Benzoate de sodium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E212",
+   "FIELD2": "Benzoate de potassium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E213",
+   "FIELD2": "Benzoate de calcium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E214",
+   "FIELD2": "Ethylparabène, Hydroxybenzoate d'éthyle (para-)",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E215",
+   "FIELD2": "Ethylparabène sodique, Hydroxybenzoate d'éthyle sodique (para-)",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E216",
+   "FIELD2": "Propylparabène, Hydroxybenzoate de propyle (para-)",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E217",
+   "FIELD2": "Propylparabène sodique, Hydroxybenzoate de propyle sodique (para-)",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E218",
+   "FIELD2": "Méthylparabène, Hydroxybenzoate de méthyle (para-)",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E219",
+   "FIELD2": "Méthylparabène sodique, Hydroxybenzoate de méthyle sodique (para-)",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E220",
+   "FIELD2": "Dioxyde de soufre, Anhydride sulfureux",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E221",
+   "FIELD2": "Sulfite de sodium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E222",
+   "FIELD2": "Bisulfite de sodium, Sulfite acide de sodium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E223",
+   "FIELD2": "Métabisulfite de sodium, Pyrosulfite de sodium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E224",
+   "FIELD2": "Métabisulfite de potassium, Pyrosulfite de potassium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E225",
+   "FIELD2": "Sulfite de potassium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E226",
+   "FIELD2": "Sulfite de calcium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E227",
+   "FIELD2": "Bisulfite de calcium, Sulfite acide de calcium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E228",
+   "FIELD2": "Bisulfite de potassium, Sulfite acide de potassium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E230",
+   "FIELD2": "Diphényle, Biphényle",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E231",
+   "FIELD2": "Orthophénylphénol, 2-Phénylphénol",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E232",
+   "FIELD2": "Orthophénylphénol de sodium, Orthophénylphénate de sodium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E233",
+   "FIELD2": "Thiabendazole, Benzimidazole",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E234",
+   "FIELD2": "Nisine",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E235",
+   "FIELD2": "Natamycine, Pimaricine",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E236",
+   "FIELD2": "Acide formique",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E237",
+   "FIELD2": "Formiate de sodium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E238",
+   "FIELD2": "Formiate de calcium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E239",
+   "FIELD2": "Héxaméthylène tétramine",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E240",
+   "FIELD2": "Formaldéhyde, Aldéhyde formique, Formol",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E241",
+   "FIELD2": "Gomme gaïac",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E242",
+   "FIELD2": "Dicarbonate de diméthyle, DMDC",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E249",
+   "FIELD2": "Nitrite de potassium",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E250",
+   "FIELD2": "Nitrite de sodium",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E251",
+   "FIELD2": "Nitrate de sodium, Salpêtre du Chili",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E252",
+   "FIELD2": "Nitrate de potassium, Salpêtre",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E260",
+   "FIELD2": "Acide acétique (glacial), Acide éthanoïque",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E261",
+   "FIELD2": "Acétate de potassium, Ethanoate de potassium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E262",
+   "FIELD2": "Acétate de sodium, Ethanoate de sodium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E263",
+   "FIELD2": "Acétate de calcium, Ethanoate de calcium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E264",
+   "FIELD2": "Acétate d'ammonium, Ethanoate d'ammonium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E265",
+   "FIELD2": "Acide déhydroacétique, Acide déhydracétique",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E266",
+   "FIELD2": "Déhydroacétate de sodium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E270",
+   "FIELD2": "Acide lactique (L-, D- et DL-) (D-)",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E280",
+   "FIELD2": "Acide propionique",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E281",
+   "FIELD2": "Propionate de sodium, Propanoate de sodium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E282",
+   "FIELD2": "Propionate de calcium, Propanoate de calcium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E283",
+   "FIELD2": "Propionate de potassium, Propanoate de potassium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E284",
+   "FIELD2": "Acide borique",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E285",
+   "FIELD2": "Tétraborate de sodium (Borax)",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E290",
+   "FIELD2": "Dioxyde de carbone, Gaz carbonique, Anhydride carbonique, CO2",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E296",
+   "FIELD2": "Acide malique (L- ou DL-)                 <!-- rem1 -->",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E297",
+   "FIELD2": "Acide fumarique",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E300",
+   "FIELD2": "Acide ascorbique , Vitamine C",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E301",
+   "FIELD2": "Ascorbate de sodium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E302",
+   "FIELD2": "Ascorbate de calcium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E303",
+   "FIELD2": "Ascorbate de potassium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E304",
+   "FIELD2": "Palmitate d'ascorbyle (i), Stéarate d'ascorbyle (ii)",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E306",
+   "FIELD2": "Tocophérols, Extraits riches en vitamine E",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E307",
+   "FIELD2": "Alpha-tocophérol (DL-, synthétique)",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E308",
+   "FIELD2": "Gamma-tocophérol (DL-, synthétique)",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E309",
+   "FIELD2": "Delta-tocophérol (DL-, synthétique)",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E310",
+   "FIELD2": "Gallate de propyle",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E311",
+   "FIELD2": "Gallate d'octyle",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E312",
+   "FIELD2": "Gallate de dodécyle",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E313",
+   "FIELD2": "Gallate d'éthyle",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E314",
+   "FIELD2": "Résine de gaïac",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E315",
+   "FIELD2": "Acide érythorbique, Acide isoascorbique",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E316",
+   "FIELD2": "Erythorbate de sodium, Isoascorbate de sodium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E317",
+   "FIELD2": "Erythorbate de potassium, Isoascorbate de potassium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E318",
+   "FIELD2": "Erythorbate de calcium, Isoascorbate de calcium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E319",
+   "FIELD2": "Butylhydroquinone tertiaire, BHQT",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E320",
+   "FIELD2": "Butylhydroxyanisol, Hydroxyanisol butylé, BHA",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E321",
+   "FIELD2": "Butylhydroxytoluène, Hydroxytoluène butylé, BHT",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E322",
+   "FIELD2": "Lécithines",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E323",
+   "FIELD2": "Anoxomère",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E324",
+   "FIELD2": "Ethoxyquine",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E325",
+   "FIELD2": "Lactate de sodium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E326",
+   "FIELD2": "Lactate de potassium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E327",
+   "FIELD2": "Lactate de calcium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E328",
+   "FIELD2": "Lactate d'ammonium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E329",
+   "FIELD2": "Lactate de magnésium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E330",
+   "FIELD2": "Acide citrique",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E331",
+   "FIELD2": "Citrate de sodium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E332",
+   "FIELD2": "Citrate de potassium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E333",
+   "FIELD2": "Citrate de calcium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E334",
+   "FIELD2": "Acide tartrique, Acide L(+)-tartrique",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E335",
+   "FIELD2": "Tartrate de sodium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E336",
+   "FIELD2": "Tartrate de potassium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E337",
+   "FIELD2": "Tartrate double de sodium et de potassium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E338",
+   "FIELD2": "Acide phosphorique, Acide orthophosphorique",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E339",
+   "FIELD2": "Phosphates de sodium, Orthophosphates de sodium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E340",
+   "FIELD2": "Phosphates de potassium, Orthophosphates de potassium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E341",
+   "FIELD2": "Phosphates de calcium, Orthophosphates de calcium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E342",
+   "FIELD2": "Phosphates d'ammonium, Monophosphates d'ammonium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E343",
+   "FIELD2": "Phosphates de magnésium, Monophosphates de magnésium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E344",
+   "FIELD2": "Citrate de lécithine",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E345",
+   "FIELD2": "Citrate de magnésium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E349",
+   "FIELD2": "Malate d'ammonium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E350",
+   "FIELD2": "Malate de sodium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E351",
+   "FIELD2": "Malate de potassium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E352",
+   "FIELD2": "Malate de calcium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E353",
+   "FIELD2": "Acide métatartrique",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E354",
+   "FIELD2": "Tartrate de calcium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E355",
+   "FIELD2": "Acide adipique",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E356",
+   "FIELD2": "Adipates de sodium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E357",
+   "FIELD2": "Adipates de potassium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E359",
+   "FIELD2": "Adipates d'ammonium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E363",
+   "FIELD2": "Acide succinique",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E364",
+   "FIELD2": "Succinates de sodium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E365",
+   "FIELD2": "Fumarates de sodium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E366",
+   "FIELD2": "Fumarates de potassium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E367",
+   "FIELD2": "Fumarates de calcium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E368",
+   "FIELD2": "Fumarates d'ammonium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E370",
+   "FIELD2": "Heptonolactone (1,4-)",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E375",
+   "FIELD2": "Niacine, Acide nicotinique",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E380",
+   "FIELD2": "Citrate de triammonium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E381",
+   "FIELD2": "Citrate d'ammonium ferrique",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E383",
+   "FIELD2": "Glycérophosphate de calcium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E384",
+   "FIELD2": "Citrates d'isopropyle",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E385",
+   "FIELD2": "EDTA calcio-disodique",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E386",
+   "FIELD2": "EDTA disodique",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E387",
+   "FIELD2": "Oxystéarine",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E388",
+   "FIELD2": "Acide thiodipropionique, Acide thiodipropanoïque, TDPA",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E389",
+   "FIELD2": "Thiodipropionate de dilauryle",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E390",
+   "FIELD2": "Thiodipropionate de distéaryle",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E391",
+   "FIELD2": "Acide phytique",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E392",
+   "FIELD2": "Extrait de romarin",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E399",
+   "FIELD2": "Lactobionate de calcium",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E400",
+   "FIELD2": "Acide alginique",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E401",
+   "FIELD2": "Alginate de sodium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E402",
+   "FIELD2": "Alginate de potassium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E403",
+   "FIELD2": "Alginate d'ammonium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E404",
+   "FIELD2": "Alginate de calcium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E405",
+   "FIELD2": "Alginate de propylène glycol, Alginate de propane-1,2 diol",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E406",
+   "FIELD2": "Agar-agar, Layor Carang, Isinglass du Japon",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E407",
+   "FIELD2": "Carraghénane, Carraghénate, Furcellaran, Mousse d'Irlande",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E407a",
+   "FIELD2": "Carraghénane semi-raffinée, Algue Eucheuma transformée",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E408",
+   "FIELD2": "Glycane de levure de boulanger",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E409",
+   "FIELD2": "Arabinogalactane",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E410",
+   "FIELD2": "Gomme de caroube, Farine de graine de caroube",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E411",
+   "FIELD2": "Gomme d'avoine",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E412",
+   "FIELD2": "Gomme de guar",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E413",
+   "FIELD2": "Gomme adragante, Gomme de dragon, Tragacanthe",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E414",
+   "FIELD2": "Gomme arabique, Gomme d'acacia",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E415",
+   "FIELD2": "Gomme xanthane",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E416",
+   "FIELD2": "Gomme karaya, Gomme sterculia",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E417",
+   "FIELD2": "Gomme tara",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E418",
+   "FIELD2": "Gomme gellane",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E419",
+   "FIELD2": "Gomme ghatti",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E420",
+   "FIELD2": "Sorbitol, Sirop de sorbitol",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E421",
+   "FIELD2": "Mannitol",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E422",
+   "FIELD2": "Glycérol, Glycérine",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E424",
+   "FIELD2": "Curdlan",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E425",
+   "FIELD2": "Gomme de Konjac, Glucomannane de Konjac, Farine de Konjac",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E426",
+   "FIELD2": "Hémicellulose de soja",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E427",
+   "FIELD2": "Gomme cassia",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E428",
+   "FIELD2": "Gélatine",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E429",
+   "FIELD2": "Peptones",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E430",
+   "FIELD2": "Stéarate de polyoxyéthylène 8",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E431",
+   "FIELD2": "Stéarate de polyoxyéthylène 40",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E432",
+   "FIELD2": "Polysorbate 20, Tween 20",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E433",
+   "FIELD2": "Polysorbate 80, Tween 80",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E434",
+   "FIELD2": "Polysorbate 40, Tween 40",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E435",
+   "FIELD2": "Polysorbate 60, Tween 60",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E436",
+   "FIELD2": "Polysorbate 65, Tween 65",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E440i",
+   "FIELD2": "Pectine",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E440ii",
+   "FIELD2": "Pectine amidée",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E441",
+   "FIELD2": "Huile de colza superglycérinée hydrogénée",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E442",
+   "FIELD2": "Phosphatides d'ammonium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E443",
+   "FIELD2": "Huile végétale bromée",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E444",
+   "FIELD2": "Acétate isobutyrate de saccharose, SAIB",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E445",
+   "FIELD2": "Ester glycérique de résines de bois",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E446",
+   "FIELD2": "Succistéarine",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E450",
+   "FIELD2": "Diphosphates, Pyrophosphates",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E451",
+   "FIELD2": "Triphosphates",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E452",
+   "FIELD2": "Polyphosphates",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E456",
+   "FIELD2": "Polyaspartate de potassium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E457",
+   "FIELD2": "Cyclodextrine (Alpha-), AlphaCD, α-Cyclodextrine",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E458",
+   "FIELD2": "Cyclodextrine (Gamma-), GammaCD, γ-Cyclodextrine",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E459",
+   "FIELD2": "Cyclodextrine (Bêta-), BêtaCD, β-Cyclodextrine",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E460",
+   "FIELD2": "Celluloses",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E461",
+   "FIELD2": "Methyl cellulose",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E462",
+   "FIELD2": "Ethyl cellulose",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E463",
+   "FIELD2": "Hydroxypropyl cellulose",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E464",
+   "FIELD2": "Hydroxypropyl méthyl cellulose",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E465",
+   "FIELD2": "Méthyléthyl cellulose, MEC",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E466",
+   "FIELD2": "Carboxyméthyl cellulose de sodium, Gomme de cellulose",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E467",
+   "FIELD2": "Ethyl hydroxyéthyl cellulose",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E468",
+   "FIELD2": "Carboximéthyl cellulose sodique réticulée, Gomme cellulosique réticulée",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E469",
+   "FIELD2": "Carboximéthyl cellulose sodique hydrolysée par voie enzymatique, ...",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E470",
+   "FIELD2": "Sels d'acides gras (ayant pour base Al, NH4, Ca, Mg, K, Na)",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E470a",
+   "FIELD2": "Sels de sodium, de potassium et de calcium d'acides gras",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E470b",
+   "FIELD2": "Sels de magnésium d'acides gras",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E471",
+   "FIELD2": "Mono et diglycérides d'acides gras",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E472a",
+   "FIELD2": "Esters acétiques des mono- et diglycérides d'acides gras",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E472b",
+   "FIELD2": "Esters lactiques des mono- et diglycérides d'acides gras",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E472c",
+   "FIELD2": "Esters citriques des mono- et diglycérides d'acides gras",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E472d",
+   "FIELD2": "Esters tartriques des mono- et diglycérides d'acides gras",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E472e",
+   "FIELD2": "Esters mono- et diacétyltartriques des mono- et diglycérides d'acides gras",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E472f",
+   "FIELD2": "Esters mixtes acétiq. et tartriq. des mono- et diglycérides d'acides gras",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E472g",
+   "FIELD2": "Monoglycérides succinyles",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E473",
+   "FIELD2": "Sucroesters d'acides gras, Esters de saccharose d'acides gras",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E473a",
+   "FIELD2": "Oligoesters de saccharose de type I et de type II",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E474",
+   "FIELD2": "Sucroglycérides, Saccharoglycérides",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E475",
+   "FIELD2": "Esters polyglycériques d'acides gras",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E476",
+   "FIELD2": "Polyricinoléate de polyglycérol",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E477",
+   "FIELD2": "Esters de propylène glycol d'acides gras",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E478",
+   "FIELD2": "Esters glycériques et propylène-glycoliques d'acides gras lactyles",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E479b",
+   "FIELD2": "Huile de soja oxydée par chauffage",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E480",
+   "FIELD2": "Sulfosuccinate dioctylique de sodium, Docusate de sodium, DSS",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E481",
+   "FIELD2": "Lactylates de sodium, Stéaroyl-2-lactylate de sodium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E482",
+   "FIELD2": "Lactylates de calcium, Stéaroyl-2-lactylate de calcium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E483",
+   "FIELD2": "Tartrate de stéaryle",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E484",
+   "FIELD2": "Citrate de stéaryle",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E485",
+   "FIELD2": "Stéaroyl fumarate de sodium",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E486",
+   "FIELD2": "Stearoyl fumarate de calcium",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E487",
+   "FIELD2": "Laurylsulfate de sodium, LSS",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E488",
+   "FIELD2": "Mono et diglycérides éthoxylés",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E489",
+   "FIELD2": "Ester de méthylglycoside d'huile de coco",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E491",
+   "FIELD2": "Monostéarate de sorbitane",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E492",
+   "FIELD2": "Tristéarate de sorbitane",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E493",
+   "FIELD2": "Monolaurate de sorbitane",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E494",
+   "FIELD2": "Monooléate de sorbitane",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E495",
+   "FIELD2": "Monopalmitate de sorbitane",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E496",
+   "FIELD2": "Trioléate de sorbitane",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E500",
+   "FIELD2": "Carbonates de sodium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E501",
+   "FIELD2": "Carbonates de potassium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E502",
+   "FIELD2": "Carbonates",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E503",
+   "FIELD2": "Carbonates d'ammonium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E504",
+   "FIELD2": "Carbonates de magnésium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E505",
+   "FIELD2": "Carbonates de fer, Carbonates ferreux",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E507",
+   "FIELD2": "Acide chlorhydrique",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E508",
+   "FIELD2": "Chlorure de potassium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E509",
+   "FIELD2": "Chlorure de calcium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E510",
+   "FIELD2": "Chlorure d'ammonium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E511",
+   "FIELD2": "Chlorure de magnésium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E512",
+   "FIELD2": "Chlorure d'étain, Chlorure stanneux",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E513",
+   "FIELD2": "Acide sulfurique",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E514",
+   "FIELD2": "Sulfate de sodium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E515",
+   "FIELD2": "Sulfate de potassium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E516",
+   "FIELD2": "Sulfate de calcium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E517",
+   "FIELD2": "Sulfate d'ammonium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E518",
+   "FIELD2": "Sulfate de magnésium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E519",
+   "FIELD2": "Sulfate de cuivre II, Sulfate cuprique",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E520",
+   "FIELD2": "Sulfate d'aluminium (anhydre)",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E521",
+   "FIELD2": "Sulfate d'aluminium sodique                 <!-- (anhydre)-->",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E522",
+   "FIELD2": "Sulfate d'aluminium potassique",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E523",
+   "FIELD2": "Sulfate d'aluminium ammonique, Sulfate d'aluminium ammonium",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E524",
+   "FIELD2": "Hydroxyde de sodium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E525",
+   "FIELD2": "Hydroxyde de potassium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E526",
+   "FIELD2": "Hydroxyde de calcium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E527",
+   "FIELD2": "Hydroxyde d'ammonium, Liqueur ammoniacale, Solution d'ammoniaque",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E528",
+   "FIELD2": "Hydroxyde de magnésium, Lait de magnésie",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E529",
+   "FIELD2": "Oxyde de calcium, Chaux, Chaux vive",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E530",
+   "FIELD2": "Oxyde de magnésium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E535",
+   "FIELD2": "Ferrocyanure de sodium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E536",
+   "FIELD2": "Ferrocyanure de potassium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E537",
+   "FIELD2": "Hexacyanomanganate de fer",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E538",
+   "FIELD2": "Ferrocyanure de calcium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E539",
+   "FIELD2": "Thiosulfate de sodium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E540",
+   "FIELD2": "Phosphate acide de calcium, Phosphate de calcium hydrogène",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E541",
+   "FIELD2": "Phosphate de sodium-aluminium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E542",
+   "FIELD2": "Phosphate d'os, Phosphate d'os comestible",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E544",
+   "FIELD2": "Polyphosphates de calcium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E545",
+   "FIELD2": "Polyphosphates d'ammonium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E546",
+   "FIELD2": "Diphosphates de magnésium, Pyrophosphates de magnésium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E550",
+   "FIELD2": "Silicate de sodium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E551",
+   "FIELD2": "Dioxyde de silicium (amorphe), Silice (amorphe)",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E552",
+   "FIELD2": "Silicate de calcium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E553",
+   "FIELD2": "Silicate de magnésium, Trisilicate de magnésium, Talc",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E554",
+   "FIELD2": "Silicate alumino-sodique, Silicoaluminate de sodium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E555",
+   "FIELD2": "Silicate alumino-potassique, Silocoaluminate de potassium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E556",
+   "FIELD2": "Silicate alumino-calcique, Silicoaluminate de calcium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E557",
+   "FIELD2": "Silicate de zinc",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E558",
+   "FIELD2": "Bentonite",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E559",
+   "FIELD2": "Silicate d'aluminium (kaolin léger ou lourd)",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E560",
+   "FIELD2": "Silicate de potassium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E570",
+   "FIELD2": "Acides gras",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E572",
+   "FIELD2": "Stéarate de magnésium, Magnésium stéarate",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E574",
+   "FIELD2": "Acide gluconique ",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E575",
+   "FIELD2": "Glucono-delta-lactone",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E576",
+   "FIELD2": "Gluconate de sodium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E577",
+   "FIELD2": "Gluconate de potassium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E578",
+   "FIELD2": "Gluconate de calcium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E579",
+   "FIELD2": "Gluconate de fer, Gluconate ferreux",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E580",
+   "FIELD2": "Gluconate de magnésium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E585",
+   "FIELD2": "Lactate de fer, Lactate ferreux",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E586",
+   "FIELD2": "Hexylrésorcinol (4-)",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E620",
+   "FIELD2": "Acide glutamique",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E621",
+   "FIELD2": "Glutamate de sodium, Glutamate monosodique, GMS",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E622",
+   "FIELD2": "Glutamate de potassium, Glutamate monopotassique",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E623",
+   "FIELD2": "Glutamate de calcium, Diglutamate monocalcique",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E624",
+   "FIELD2": "Glutamate d'ammonium, Glutamate monoammonique",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E625",
+   "FIELD2": "Glutamate de magnésium, Diglutamate monomagnésique",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E626",
+   "FIELD2": "Acide guanylique, Guanosine 5'-monophosphate",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E627",
+   "FIELD2": "Guanylate disodique, Guanylate-5' de sodium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E628",
+   "FIELD2": "Guanylate de potassium, Guanylate 5'-potassique",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E629",
+   "FIELD2": "Guanylate de calcium, Guanylate 5'-calcique",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E630",
+   "FIELD2": "Acide inosinique, Inosine 5'-monophosphate",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E631",
+   "FIELD2": "Inosinate disodique, Inosinate de sodium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E632",
+   "FIELD2": "Inosinate dipotassique, Inosinate de potassium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E633",
+   "FIELD2": "Inosinate calcique, Inosinate de calcium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E634",
+   "FIELD2": "5'-Ribonucléotide calcique, Ribonucléotide de calcium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E635",
+   "FIELD2": "5'-Ribonucléotide disodique, Ribonucléotide de sodium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E636",
+   "FIELD2": "Maltol",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E637",
+   "FIELD2": "Ethylmaltol, Ethyl-maltol, Ethyle maltol",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E638",
+   "FIELD2": "Aspartate de sodium ",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E639",
+   "FIELD2": "Alanine",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E640",
+   "FIELD2": "Glycine et son sel de sodium",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E641",
+   "FIELD2": "Leucine ",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E642",
+   "FIELD2": "Hydrochlorure de lysine",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E650",
+   "FIELD2": "Acétate de zinc",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E900",
+   "FIELD2": "Diméthylpolysiloxane, Polydiméthylsiloxane, Diméthicone, PDMS",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E900b",
+   "FIELD2": "Méthylphénylpolysiloxane, Polyphénylméthylsiloxane, Phényl triméthicone",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E901",
+   "FIELD2": "Cire d'abeille, Cire blanche, Cire jaune",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E902",
+   "FIELD2": "Cire de candelilla",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E903",
+   "FIELD2": "Cire de carnauba",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E904",
+   "FIELD2": "Résine de Shellac, Shellac, Gomme-laque blanchie",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E905",
+   "FIELD2": "Cire microcristalline, Cire de pétrole, Paraffine synthétique",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E905a",
+   "FIELD2": "Huile minérale de qualité alimentaire",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E905b",
+   "FIELD2": "Vaseline, Gelée de pétrole, Pétrolatum",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E905c",
+   "FIELD2": "Cire microcristalline, Cire de pétrole, Cire de paraffine",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E905d",
+   "FIELD2": "Huile minérale (viscosité élevée)",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E905e",
+   "FIELD2": "Huile minérale (viscosité moyenne et faible, catégorie I)",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E905f",
+   "FIELD2": "Huile minérale (viscosité moyenne et faible, catégorie II)",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E905g",
+   "FIELD2": "Huile minérale (viscosité moyenne et faible, catégorie III)",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E906",
+   "FIELD2": "Gomme benjoin, Résine benjoin, Gomme benzoïque",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E907",
+   "FIELD2": "Poly-1-décène hydrogéné, Polydécène hydrogéné",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E908",
+   "FIELD2": "Cire de son de riz",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E909",
+   "FIELD2": "Cire de blanc de baleine",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E910",
+   "FIELD2": "Esters de cires",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E911",
+   "FIELD2": "Esters méthyliques d'acides gras, EMAG",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E912",
+   "FIELD2": "Esters de l'acide montanique",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E913",
+   "FIELD2": "Lanoline",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E914",
+   "FIELD2": "Cire de polyéthylène oxydée",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E915",
+   "FIELD2": "Esters de colophane",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E916",
+   "FIELD2": "Iodate de calcium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E917",
+   "FIELD2": "Iodate de potassium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E918",
+   "FIELD2": "Oxydes d'azote",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E919",
+   "FIELD2": "Chlorure de nitrosyle",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E920",
+   "FIELD2": "Cystéine  et ses chlorhydrates (sels de sodium et de potassium)",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E921",
+   "FIELD2": "Cystine  et ses chlorhydrates (sels de sodium et de potassium)",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E922",
+   "FIELD2": "Persulfate de potassium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E923",
+   "FIELD2": "Persulfate d'ammonium",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E924a",
+   "FIELD2": "Bromate de potassium",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E924b",
+   "FIELD2": "Bromate de calcium",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E925",
+   "FIELD2": "Chlore, Chlorine",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E926",
+   "FIELD2": "Peroxyde de chlore, Dioxyde de chlore, Oxyde de chlore",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E927a",
+   "FIELD2": "Azodicarbonamide, Azoformamide",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E927b",
+   "FIELD2": "Urée, Carbamide",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E928",
+   "FIELD2": "Peroxyde de benzoyle",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E929",
+   "FIELD2": "Peroxyde d'acétone",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E930",
+   "FIELD2": "Peroxyde de calcium",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E938",
+   "FIELD2": "Argon",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E939",
+   "FIELD2": "Hélium",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E940",
+   "FIELD2": "Dichlorodifluorométhane",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E941",
+   "FIELD2": "Azote",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E942",
+   "FIELD2": "Protoxyde d'azote, Oxyde nitreux",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E943a",
+   "FIELD2": "Butane",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E943b",
+   "FIELD2": "Isobutane",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E944",
+   "FIELD2": "Propane",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E945",
+   "FIELD2": "Chloropentafluoroéthane",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E946",
+   "FIELD2": "Octafluorocyclobutane",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E948",
+   "FIELD2": "Oxygène",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E949",
+   "FIELD2": "Hydrogène",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E950",
+   "FIELD2": "Acésulfame potassium, Acésulfame-K",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E951",
+   "FIELD2": "Aspartame",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E952",
+   "FIELD2": "Cyclamates",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E953",
+   "FIELD2": "Isomalt (isomaltulose hydrogéné)",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E954",
+   "FIELD2": "Saccharine et ses sels de Na, Ca et K",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E955",
+   "FIELD2": "Sucralose (trichlorogalactosucrose)",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E956",
+   "FIELD2": "Alitame",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E957",
+   "FIELD2": "Thaumatine",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E958",
+   "FIELD2": "Glycyrrhizine, Acide glycyrrhizique, Liquorice, Licorice",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E959",
+   "FIELD2": "Dihydrochalcone de néohespéridine, Néohespéridine DC, NHDC",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E960",
+   "FIELD2": "Glycosides de stéviol",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E961",
+   "FIELD2": "Néotame",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E962",
+   "FIELD2": "Aspartame acésulfame (sel d')",
+   "FIELD3": "Very toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E963",
+   "FIELD2": "Tagatose ",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E964",
+   "FIELD2": "Sirop de polyglycitol",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E965",
+   "FIELD2": "Maltitol, Sirop de maltitol",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E966",
+   "FIELD2": "Lactitol",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E967",
+   "FIELD2": "Xylitol",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E968",
+   "FIELD2": "Erythritol",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E999",
+   "FIELD2": "Extraits de quillaia (type I et II)",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1000",
+   "FIELD2": "Acide cholique",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1001",
+   "FIELD2": "Choline (sels et esters de-)",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1100",
+   "FIELD2": "Amylases",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1101",
+   "FIELD2": "Protéases (Protéase, Papaïne, Bromélaïne, Ficine)",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1102",
+   "FIELD2": "Glucose oxydase",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1103",
+   "FIELD2": "Invertases",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1104",
+   "FIELD2": "Lipases",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1105",
+   "FIELD2": "Lysozyme, Lysozyme chlorhydrate",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1200",
+   "FIELD2": "Polydextroses A et N, Polydextroses modifiés",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1201",
+   "FIELD2": "Polyvinylpyrrolidone, PVP",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1202",
+   "FIELD2": "Polyvinylpolypyrrolidone, PVPP",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1203",
+   "FIELD2": "Alcool polyvinylique",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1204",
+   "FIELD2": "Pullulan, Pullulane",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1205",
+   "FIELD2": "Copolymère méthacrylate basique",
+   "FIELD3": "",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1400",
+   "FIELD2": "Amidon torréfié, Dextrines, dit Amidon",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1401",
+   "FIELD2": "Amidon traité aux acides, dit Amidon modifié",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1402",
+   "FIELD2": "Amidon traité aux alcalis, dit Amidon modifié",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1403",
+   "FIELD2": "Amidon blanchi, dit Amidon modifié",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1404",
+   "FIELD2": "Amidon oxydé, dit Amidon modifié",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1405",
+   "FIELD2": "Amidon traité aux enzymes, dit Amidon",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1410",
+   "FIELD2": "Phosphate d'amidon, dit Amidon modifié",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1411",
+   "FIELD2": "Glycérol de diamidon, Diamidon glycériné, dit Amidon modifié",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1412",
+   "FIELD2": "Phosphate de diamidon, dit Amidon modifié",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1413",
+   "FIELD2": "Phosphate de diamidon phosphaté, dit Amidon modifié",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1414",
+   "FIELD2": "Phosphate de diamidon acétylé, dit Amidon modifié",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1420",
+   "FIELD2": "Amidon acétylé, Acétate d'amidon, dit Amidon modifié",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1421",
+   "FIELD2": "Amidon acétylé à l'acétate de vinyle, dit Amidon modifié",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1422",
+   "FIELD2": "Adipate de diamidon acétyle, dit Amidon modifié",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1440",
+   "FIELD2": "Amidon hydroxypropylique, dit Amidon modifié",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1441",
+   "FIELD2": "Glycérine de diamidon hydroxypropylique, dit Amidon modifié",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1442",
+   "FIELD2": "Phosphate de diamidon hydroxypropylique, dit Amidon modifié",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1450",
+   "FIELD2": "Succinate octénylique d'amidon sodique, dit Amidon modifié",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1451",
+   "FIELD2": "Amidon oxydé acétylé, dit Amidon modifié",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1452",
+   "FIELD2": "Succinate octénylique d'amidon aluminique, dit Amidon modifié",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1503",
+   "FIELD2": "Huile de ricin",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1505",
+   "FIELD2": "Citrate de triéthyle, Citrate triéthylique, Triéthyle citrate",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1510",
+   "FIELD2": "Ethanol, Alcool éthylique",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1517",
+   "FIELD2": "Diacétine, Diacétate de glycérol, Diacétate de glycéryle",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1518",
+   "FIELD2": "Triacétine, Triacétate de glycérol, Triacétate de glycéryle",
+   "FIELD3": "Little / not toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1519",
+   "FIELD2": "Alcool de benzyle, Alcool benzylique, Phénylméthanol",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1520",
+   "FIELD2": "Propylène glycol, Propane diol-1,2",
+   "FIELD3": "Do not abuse",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1521",
+   "FIELD2": "Polyéthylène glycol, Macrogol, PEG",
+   "FIELD3": "Toxic",
+   "FIELD4": ""
+ },
+ {
+   "FIELD1": "E1522",
+   "FIELD2": "Lignosulfonate de calcium (40-65)",
+   "FIELD3": "Doubtful",
+   "FIELD4": ""
+ }
+]
