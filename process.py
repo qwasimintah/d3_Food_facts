@@ -3,7 +3,7 @@ import json
 
 
 countries = pd.read_csv('tsv/products_countries.tsv', sep='\t')
-categories = pd.read_csv('tsv/products_categories_full.tsv', sep='\t')
+categories = pd.read_csv('tsv/products_categories_min.tsv', sep='\t')
 products = pd.read_csv('tsv/products.tsv', sep='\t')
 
 combined = pd.merge(left = products, right = categories, on='code' )
@@ -24,6 +24,7 @@ def get_ingredient_data(data, ing):
     
 
 
+
 def get_plot_format_data(combined,ing, blue):
     country_list = get_top_countries(combined, ing)
     value_list = get_top_values(combined, ing)
@@ -32,11 +33,17 @@ def get_plot_format_data(combined,ing, blue):
     for country in country_list:
         if country not in details.keys():
             details[country]=[]
-
+        other =0
         for value in blue.index:
+            
             if country == value[0]:
-                if len(details[country])<7:
+                if len(details[country])<6:
                     details[country].append({value[1]:blue.loc[value][ing]})
+                else:
+                    other += blue.loc[value][ing]
+
+        details[country].append({'other':other})
+
     result =[]
     counter = 0
     for key, value in details.items():
@@ -77,5 +84,5 @@ for ing in ingredients:
 # save json
 
 
-with open('final2.json','w') as f:
+with open('final4.json','w') as f:
     json.dump(final, f)

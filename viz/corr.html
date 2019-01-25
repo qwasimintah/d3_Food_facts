@@ -107,6 +107,8 @@ rect:hover {  fill:blue; }
     <button  onclick="update_ingredients('1')" class="button">Alcohol</button>
     <button  onclick="update_ingredients('2')" class="button">Sugar</button>
     <button  onclick="update_ingredients('3')" class="button">Salt</button>
+    <button  onclick="update_ingredients('4')" class="button">Cholesterol</button>
+    <button  onclick="update_ingredients('5')" class="button">Fruits/Vegetables</button>
     <button class="button">Other</button>
   </div>
 </div>
@@ -143,7 +145,7 @@ window.onclick = function(event) {
 <script type="text/javascript">
 
 var allData ={}    
-d3.json("../final1.json", function(error, data) {
+d3.json("../final4.json", function(error, data) {
     allData = data;
     console.log(allData);
     dashboard('#dashboard',data.alcohol);
@@ -231,12 +233,16 @@ function dashboard(id, fData){
             // call update functions of pie-chart and legend.    
             pC.update(nD);
             leg.update(nD);
+            //leg.hide();
+
+            
         }
         
         function mouseout(d){    // utility function to be called on mouseout.
             // reset the pie-chart and legend.    
             pC.update(tF);
             leg.update(tF);
+            //leg.show();
         }
         
         // create function to update the bars. This will be used by pie-chart.
@@ -299,6 +305,7 @@ function dashboard(id, fData){
             // call the update function of histogram with all data.
             hG.update(fData.map(function(v){
                 return [v.State,v.total];}), barColor);
+
         }
         // Animating the pie-slice requiring a custom function which specifies
         // how the intermediate paths should be drawn.
@@ -358,6 +365,19 @@ function dashboard(id, fData){
             return d3.format("%")(val);
         }
 
+        leg.hide =function (){
+            
+            //d3.selectAll("legend").attr("visibility", "hidden");
+            document.getElementsByClassName('legend')[0].style.display = 'none';
+        }
+
+        leg.show =function (){
+            
+            //d3.selectAll("legend").attr("visibility", "hidden");
+            document.getElementsByClassName('legend')[0].style.display = 'block';
+        }
+
+
         return leg;
     }
     
@@ -404,6 +424,16 @@ function update_ingredients(id){
         title.innerHTML='<center>Salt</center>';
         dash_board.innerHTML='';
         dashboard('#dashboard',allData.salt);
+    }
+    else if(id =='4'){
+        title.innerHTML='<center>Cholesterol</center>';
+        dash_board.innerHTML='';
+        dashboard('#dashboard',allData.cholesterol);
+    }
+    else if(id =='5'){
+        title.innerHTML='<center>fruits-vegetables-nuts</center>';
+        dash_board.innerHTML='';
+        dashboard('#dashboard',allData['fruits-vegetables-nuts']);
     }
 }
 
