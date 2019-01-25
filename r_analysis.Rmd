@@ -1,0 +1,380 @@
+---
+title: "Projet_Info_Vis"
+author: "Flora"
+date: "4 décembre 2018"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr);
+library(plyr);
+library(ggplot2);
+library(ggpubr)
+```
+
+## Get data
+
+
+```{r cars}
+
+products <- read.delim(file = 'rndblnch-2018-openfoodfacts-25192609d49e/tsv/products.tsv', sep='\t', header = TRUE)
+products_additives <- read.delim(file = 'rndblnch-2018-openfoodfacts-25192609d49e/tsv/products_additives.tsv', sep='\t', header = TRUE)
+products_categories_full <- read.delim(file = 'rndblnch-2018-openfoodfacts-25192609d49e/tsv/products_categories_full.tsv', sep='\t', header = TRUE)
+products_categories_min <- read.delim(file = 'rndblnch-2018-openfoodfacts-25192609d49e/tsv/products_categories_min.tsv', sep='\t', header = TRUE)
+products_only_breads <- read.delim(file = 'rndblnch-2018-openfoodfacts-25192609d49e/tsv/products_only_breads.tsv', sep='\t', header = TRUE)
+#products_only_breakfast-cereals <- read.delim(file = 'rndblnch-2018-openfoodfacts-25192609d49e/tsv/products_only_breakfast-cereals.tsv', sep='\t', header = TRUE)
+products_only_cookies <- read.delim(file = 'rndblnch-2018-openfoodfacts-25192609d49e/tsv/products_only_cookies.tsv', sep='\t', header = TRUE)
+#products_products_only_fruits-based-foods <- read.delim(file = 'rndblnch-2018-openfoodfacts-25192609d49e/tsv/products_only_fruits-based-foods.tsv', sep='\t', header = TRUE)
+products_only_mueslis <- read.delim(file = 'rndblnch-2018-openfoodfacts-25192609d49e/tsv/products_only_mueslis.tsv', sep='\t', header = TRUE)
+categories <- read.delim(file = 'rndblnch-2018-openfoodfacts-25192609d49e/tsv/categories.tsv', sep='\t', header = TRUE)
+categories_taxonomy <- read.delim(file = 'rndblnch-2018-openfoodfacts-25192609d49e/tsv/categories_taxonomy.tsv', sep='\t', header = TRUE)
+
+
+
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+
+summary(products)
+
+
+
+```
+
+##Number of data available (non-NA) per each column
+```{r}
+
+products %>%
+ summarize_all(funs( n=(length(.) -sum(is.na(.))) ))
+
+```
+
+
+
+
+##Number of products with different nutrition score in France and in UK
+```{r}
+
+products %>%
+  filter(nutrition.score.fr_100g != nutrition.score.uk_100g) %>%
+  nrow()
+
+products %>%
+  filter(nutrition.score.fr_100g != nutrition.score.uk_100g) %>%
+  select(c(name,nutrition.score.fr_100g, nutrition.score.uk_100g) ) 
+
+diff_nutri <- products %>%
+  filter(nutrition.score.fr_100g != nutrition.score.uk_100g) %>%
+  select(code) 
+
+products_categories_full$category[ apply(diff_nutri,1,  function(x) match(x, products_categories_full$code) )  ]
+  
+
+pp <- apply(diff_nutri,1,  function(x) match(x, products_categories_full$code) ) 
+ppp <- products_categories_full$category[pp] %>%
+  table() 
+
+res <- as.data.frame(ppp[which(ppp > 10)])
+
+
+##################### Calculate mean difference of nutriscore ###############################
+diff <-products %>%
+  filter(nutrition.score.fr_100g != nutrition.score.uk_100g) %>%
+  transmute(diff = nutrition.score.fr_100g - nutrition.score.uk_100g)
+
+diff$cat <- products_categories_full$category[pp] 
+
+mean_score <- aggregate(diff$diff, by = list(diff$cat), mean)
+
+res$mean <- mean_score$x[ which( as.character(mean_score$Group.1) %in% as.character(res$.) )]
+res$Nutriscore_difference <- mean_score$x[ which( as.character(mean_score$Group.1) %in% as.character(res$.) )]
+
+
+res <- res %>%
+  arrange(desc(mean))
+
+# res$mean[42] <- 5.0000001;
+# res$mean[43] <- 5.0000002;
+# res$mean[44] <- 5.0000003;
+# res$mean[45] <- 5.0000004;
+# res$mean[46] <- 5.0000005;
+# res$mean[47] <- 5.0000006;
+# 
+# res$mean <- factor(res$mean, levels = res$mean )
+res$. <- factor(res$., levels = res$. )     # sert à garder l'ordre croissant de mean dans le barplot, plutôt que l'ordre alphabétique des catégories
+
+
+
+## groKK
+# ggplot(as.data.frame(res), aes(x=Freq))+geom_histogram() +scale_x_discrete(limits=res$.)
+# myhist <-list(breaks=res$., counts=res$Freq, density=res$Freq/diff(res$.),
+#               xname="Overall Cond")
+# class(myhist) <- "histogram"
+# plot(myhist)
+
+
+
+## WORKS !!
+# barplot(res$Freq, names.arg = res$.)
+# text(cex=1, x=x-.25, y=-1.25, labs, xpd=TRUE, srt=45)
+# 
+# a <- barplot(res$Freq, ylim= c(0,5000), xlab = "Product's catgeories ", ylab = "Number of product", names.arg = "", col = (res$mean+10))
+# brewer.pal(3, "RdBu")
+# text(a[,1], -3.7, srt = 60, adj= 1, xpd = TRUE, labels = res$. , cex=0.6)
+
+
+
+
+b <- ggplot(res, aes(.,Freq) )
+b <- b + geom_bar( stat= "identity", aes( fill= Nutriscore_difference)) + scale_fill_gradient2(low = "blue", mid = "white",   high = "red", midpoint = 0, space = "Lab",   na.value = "grey50") +   xlab("Product's category") + ylab("Number of products \n with different nutrition score") + ggtitle("Categories with different nutrition score in France and in UK \n and their difference France - UK") + theme_bw() +   rotate_x_text(50) + theme(axis.text=element_text(size=17)) +  theme(plot.margin = unit(c(1,1,4,1),"cm"))
+#ylim= c(0,5000), xlab = "Product's catgeories ", ylab = "Number of product", names.arg = "",)
+```
+
+
+##Check if some products have a lot of data or if it's sparse
+```{r}
+
+p <- products %>%
+ summarize_all(funs( n=(length(.) -sum(is.na(.))) )) 
+
+p <- p[which(p<10000)]  ##Condition to select column (less than 10000 product info available)
+
+pcol <- substr(colnames(p), 1, nchar(colnames(p))-2 )
+
+products %>%
+  select(pcol) %>%
+  transmute_all( funs( n=sum(if_else(is.na(.),0,1))   )  )
+
+products %>%
+  select(pcol) %>%
+  replace(!is.na(.), 1) %>%
+  replace(is.na(.), 0) %>%
+  rowSums() %>%
+  table() 
+
+```
+
+
+
+# Generate tree in json format
+```{r}
+library(data.tree)
+library(rjson)
+library(treemap)
+
+tree1 <- Node$new("Product")
+
+categories_taxonomy$parent <- categories_taxonomy$children$AddChildren(as.character(categories_taxonomy$parent))
+
+apply(categories_taxonomy, 1, function(x) as.character(categories_taxonomy$parent[x]) <- categories_taxonomy$children[x]$AddChildren(as.character(categories_taxonomy$parent[x]))  )
+
+
+apply(categories_taxonomy, 1, function(x, y) as.character(x) <- y$AddChildren(as.character(x))  )
+
+
+
+lapply(categories_taxonomy$parent, function(x, y) as.character(x) <- as.character(y)$AddChildren(as.character(x)), y = categories_taxonomy$children  )
+
+
+
+
+
+
+
+
+#### New try
+
+#df$pathString <- paste("product", categories_taxonomy$parent, categories_taxonomy$children, sep="/")
+
+categories_taxonomy$pathString <- paste(categories_taxonomy$parent, categories_taxonomy$children, sep="/")
+treee <- as.Node(categories_taxonomy)
+
+
+
+#paste("product", as.character(categories_taxonomy$parent[1:3]), as.character(categories_taxonomy$children[1:3]), sep="/")
+#lapply(categories_taxonomy$parent, function(x) x %in% categories_taxonomy$children )
+
+
+
+# quel sont les noeuds qui n'ont pas de parents
+cat <- categories_taxonomy
+cat$pathString <- ""
+
+ind <- which( !unlist(lapply(cat$parent, function(x) x %in% cat$children )) )
+cat$pathString[ind] <- paste("product", cat$parent[ind], cat$children[ind], sep="/")
+
+
+####################################""Step 1 ####################################
+nind <- which( unlist(lapply(cat$parent, function(x) x %in% cat$children )) )
+cat$pathString[nind] <- paste(cat$parent[nind], cat$children[nind], sep="/")
+
+sup = 0;
+for(i in nind) {
+  
+  x <- which( cat$children == as.character(cat$parent[i+sup]) )
+  catpath <- cat$pathString[i+sup]
+  
+  for(j in 1:length(x)) {
+    v <- unlist(strsplit(cat$pathString[x[j]], "/" )) 
+    if( j==1 ) {
+      cat$pathString[i+sup] <- paste( paste( v[-length(v)], collapse = "/"),  catpath, sep="/"  )
+    }
+    else  {
+      cat <- rbind(cat[1:i+sup-1,], 
+                                   c(as.character(cat$parent[i+sup]),
+                                     as.character(cat$children[i+sup]),
+                                     paste( paste( v[-length(v)], collapse = "/"),  catpath, sep="/"  )), 
+                                   cat[-(1:i+sup-1),])
+      sup <- sup +1
+    }
+  }
+}
+
+###################################"Step 2 "###################################
+nind2 <- which( !startsWith( cat$pathString, "product" )  )
+
+sup = 0;
+for(i in nind2) {
+  
+  x <- which( cat$children == unlist(strsplit(cat$pathString[i+sup], "/" ))[1] )
+  catpath <- cat$pathString[i+sup]
+  
+  for(j in 1:length(x)) {
+    v <- unlist(strsplit(cat$pathString[x[j]], "/" )) 
+    if( j==1 ) {
+      cat$pathString[i+sup] <- paste( paste( v[-length(v)], collapse = "/"),  catpath, sep="/"  )
+    }
+    else  {
+      cat <- rbind(cat[1:i+sup-1,], 
+                                   c(as.character(cat$parent[i+sup]),
+                                     as.character(cat$children[i+sup]),
+                                     paste( paste( v[-length(v)], collapse = "/"),  catpath, sep="/"  )), 
+                                   cat[-(1:i+sup-1),])
+      sup <- sup +1
+    }
+  }
+}
+
+################################### Step 3 ##################################""
+nind3 <- which( !startsWith( cat$pathString, "product" )  )
+
+sup = 0;
+for(i in nind3) {
+  
+  x <- which( cat$children == unlist(strsplit(cat$pathString[i+sup], "/" ))[1] )
+  catpath <- cat$pathString[i+sup]
+  
+  for(j in 1:length(x)) {
+    v <- unlist(strsplit(cat$pathString[x[j]], "/" )) 
+    if( j==1 ) {
+      cat$pathString[i+sup] <- paste( paste( v[-length(v)], collapse = "/"),  catpath, sep="/"  )
+    }
+    else  {
+      cat <- rbind(cat[1:i+sup-1,], 
+                                   c(as.character(cat$parent[i+sup]),
+                                     as.character(cat$children[i+sup]),
+                                     paste( paste( v[-length(v)], collapse = "/"),  catpath, sep="/"  )), 
+                                   cat[-(1:i+sup-1),])
+      sup <- sup +1
+    }
+  }
+}
+
+
+treee <- as.Node(cat)
+jsoncat <- toJSON(as.list(treee), indent = 1)
+save(jsoncat, file="/home/arolf/Documents/MoSIG/Cours/Information Visualization/Projet/Visu1/viz/flare.json")
+
+
+cat2 <- cat
+
+cat$pathString
+
+
+
+cat(toJSON(as.list(treee), indent=1))
+
+
+
+
+```
+
+
+
+
+
+
+## Calculate mean of each categorie
+```{r}
+
+pscore <- products %>%
+  select(c(code, nutriscore)) %>%
+  filter(as.character(nutriscore)!="") %>%
+  mutate(nscore = if_else(nutriscore == "a", 1, 
+                          if_else(nutriscore == "b", 2, 
+                                  if_else(nutriscore == "c", 3, 
+                                          if_else(nutriscore == "d", 4, 
+                                                  if_else(nutriscore == "e", 5, 0)))  ) ) )
+
+categories <- categories %>% 
+  mutate(sum = 0) %>%
+  mutate(nb = 0)
+
+
+for(i in 1:nrow(pscore)) {
+  v <- which( products_categories_full$code == pscore$code[i] )
+  
+  for(j in 1:length(v)){
+    k <- which(categories$category == as.character(products_categories_full$category[v[j]]) )
+    categories$sum[k] = categories$sum[k] + pscore$nscore[i];
+    categories$nb[k] = categories$nb[k] + 1;
+  }
+}
+
+categories <- categories %>%
+   mutate(mean = round(sum/nb))
+
+
+
+write.csv(select(categories, c(category, mean)),  file = "/home/arolf/Documents/MoSIG/Cours/Information Visualization/Projet/Visu1/viz/nutriscore.csv")
+
+
+
+
+
+
+```
+
+
+## Jon stuff
+```{r}
+library(stringr)
+
+f1 <- products_categories_full %>%
+  filter(str_detect(category, 'cookie'))
+
+f2 <- products_additives[which( products_additives$code %in% f1$code  ),]  # garder que additifs pour cookies (avec code)
+  
+f3 <- products[which( products$code %in% f1$code  ),] # garder que lignes cookies
+
+
+
+write.table(f1, file='/home/arolf/Documents/Jon/products_categories_full.tsv', quote=FALSE, sep='\t', col.names = NA)
+write.table(f2, file='/home/arolf/Documents/Jon/products_additives.tsv', quote=FALSE, sep='\t', col.names = NA)
+write.table(f3, file='/home/arolf/Documents/Jon/products.tsv', quote=FALSE, sep='\t', col.names = NA)
+
+
+```
+
+
+
+
+
