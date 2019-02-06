@@ -37,4 +37,8 @@ What is the label (or the labels) where there is the lowest amount of additives 
 ![What is this](fig4.png)
 
 
+# Visulization of the hyptothesis
+To see the hypothesis is action, open the index.html. 
+
+
 
